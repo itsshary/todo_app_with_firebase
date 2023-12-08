@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34658700713",
+    "project_id": "todo-github-app-8f8ce",
+    "storage_bucket": "todo-github-app-8f8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34658700713:android:eb32760e4b04efc12948b8",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoqIBFPn8r0du92NHKR1ZTYI-VziNr9SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
